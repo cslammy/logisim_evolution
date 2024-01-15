@@ -1,7 +1,7 @@
 # logisim_evolution
 simulations for LogiSim....
 
-Please see the last paragraphs of this blog post: https://audiodiwhy.blogspot.com/2021/08/digital-fun-damentals-inputs-outputs.html
+Please see the last paragraphs of this blog post: https://audiodiwhy.blogspot.com/2021/08/digital-fun-damentals-inputs-outputs.html, this repo contains the content I mention in the post.
 
 How to use the files:
 
